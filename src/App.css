@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.landing-page{
+  width: 100%;
+  background-image: url(./johanna-vogt-tqckH4K2oJ4-unsplash.jpg);
+  background-size:cover;
+  height: 800px;
+  height: auto;
+}
+.rows{
+  display: flex;
+  justify-content: center;
+}
+
+.grd{
+  display: flex;
+}
+.cobak{
+  display: flex;
+  justify-content: center;
+}
+.cobak h2{
+  color: blueviolet;
+}

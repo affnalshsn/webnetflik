@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+/* .imge{
+    height: 100vh;
+    background-image: url(./component/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg);
+    background-size: cover; 
+    color: rgb(238, 7, 7);
+}
+.textsting{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+} */
+/* .judul{
+     font-family: 'Staatliches', cursive;
+     color: rgb(20, 100, 204);
+     font-size: 23px;
+} */
+.cobakk{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+
+}
+button{
+    background-color:red;
+    border-style: none;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 10px ;
+}
+h6{
+    color:rgb(255, 255, 255);
+}
+.t2{
+    text-shadow: 3px 2px black;
+}

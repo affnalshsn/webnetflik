@@ -1,0 +1,13 @@
+.card{
+    width: auto;
+    height: auto;
+    padding: 6px;
+}
+
+.card-image{
+    height: 500px;
+    width: 50px
+}
+.tx{
+    font-size: 19px;
+}
