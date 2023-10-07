@@ -1,0 +1,22 @@
+.flx{
+    display: flex;
+ justify-content: center;
+ align-items: center;
+ height: auto;
+}
+.boxfrom{
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    margin-top: 150px;
+    height: 60vh;
+    border-radius: 20px;
+    width: 420px;
+}
+.btnfrm{
+    width: 100%;
+}
+.fromvalida{
+    padding: 0 15px;
+    margin-top: 30px;
+}

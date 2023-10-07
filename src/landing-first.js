@@ -4,6 +4,7 @@ import { Contentimg ,Text} from "./App.style";
 import imgfirst from './component/krists-luhaers-AtPWnYNDJnM-unsplash.jpg'
 import { Container,Button,Form,InputGroup } from "react-bootstrap";
 
+
 const Landingone = () => {
     return(
     <div>

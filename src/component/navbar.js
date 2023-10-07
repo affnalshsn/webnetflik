@@ -6,7 +6,9 @@ import {
   ContentNav
 } from './Card.style';
 import { NavbarBrand } from 'react-bootstrap';
+import { useNavigate } from 'react-router-dom';
 const Tav = ({nyuba}) => {
+  const navigate = useNavigate()
   return (
     <>
       <Navbar variant="light" className='nav-edit'>
@@ -18,7 +20,7 @@ const Tav = ({nyuba}) => {
             <div>
               {nyuba === true ?(
               <Nav className="me-auto box-nav">
-                <button>Sign In</button>
+                <button onClick={()=> navigate('/login')}>Sign In</button>
               </Nav>
               ):(
                 <Nav className="me-auto box-nav">
