@@ -7,7 +7,6 @@
 .boxfrom{
     display: flex;
     flex-direction: column;
-    background-color: burlywood;
     margin-top: 150px;
     height: 60vh;
     border-radius: 20px;

@@ -4,7 +4,9 @@ import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 
 const Input = () => {
-const [seacrh,setSearch] = useState()
+const [seacrh,setSearch] = useState('')
+console.log(seacrh)
+
   return (
     <>
       <InputGroup className="mb-3 input-key">

@@ -23,12 +23,17 @@ import { Contentimg,
 import imeg from './component/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg'
 import { Row,Col, Container } from 'react-bootstrap';
 import { useEffect, useState } from 'react';
+import { useSelector } from 'react-redux/es/hooks/useSelector';
+import { getName } from './features/username/nameSlice';
 import axios from 'axios'
 
 const App = () => {
 
 const [movies, setMovies] = useState([])
 const [seacrh, setSearch] = useState('')
+
+const username = useSelector (getName);
+
 
 
 useEffect(()=>{
@@ -49,7 +54,7 @@ useEffect(()=>{
         <Tav/>
         <Container>
         <Text>
-         <h2>Mau nonton film?</h2>
+         <h2>Halo {username} Mau nonton film?</h2>
          <h3>disini aja..</h3>
         </Text>
         <InputGroup className="mb-3 input-key">
