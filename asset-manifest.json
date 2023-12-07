@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/affnalshsn15/static/css/main.c3c206cf.css",
+    "main.js": "/affnalshsn15/static/js/main.5180adf4.js",
+    "static/js/787.70728055.chunk.js": "/affnalshsn15/static/js/787.70728055.chunk.js",
+    "static/media/krists-luhaers-AtPWnYNDJnM-unsplash.jpg": "/affnalshsn15/static/media/krists-luhaers-AtPWnYNDJnM-unsplash.f25926c0a0da65fbd981.jpg",
+    "static/media/imgk.jpg": "/affnalshsn15/static/media/imgk.35d675d3db67e300f0f0.jpg",
+    "static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg": "/affnalshsn15/static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.14c17b87109f6cd52b5c.jpg",
+    "static/media/johanna-vogt-tqckH4K2oJ4-unsplash.jpg": "/affnalshsn15/static/media/johanna-vogt-tqckH4K2oJ4-unsplash.71863f0cbb0eaa0b734c.jpg",
+    "index.html": "/affnalshsn15/index.html",
+    "main.c3c206cf.css.map": "/affnalshsn15/static/css/main.c3c206cf.css.map",
+    "main.5180adf4.js.map": "/affnalshsn15/static/js/main.5180adf4.js.map",
+    "787.70728055.chunk.js.map": "/affnalshsn15/static/js/787.70728055.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c206cf.css",
+    "static/js/main.5180adf4.js"
+  ]
+}
