@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/affnalshsn15/static/css/main.c3c206cf.css",
-    "main.js": "/affnalshsn15/static/js/main.5180adf4.js",
-    "static/js/787.70728055.chunk.js": "/affnalshsn15/static/js/787.70728055.chunk.js",
-    "static/media/krists-luhaers-AtPWnYNDJnM-unsplash.jpg": "/affnalshsn15/static/media/krists-luhaers-AtPWnYNDJnM-unsplash.f25926c0a0da65fbd981.jpg",
-    "static/media/imgk.jpg": "/affnalshsn15/static/media/imgk.35d675d3db67e300f0f0.jpg",
-    "static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg": "/affnalshsn15/static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.14c17b87109f6cd52b5c.jpg",
-    "static/media/johanna-vogt-tqckH4K2oJ4-unsplash.jpg": "/affnalshsn15/static/media/johanna-vogt-tqckH4K2oJ4-unsplash.71863f0cbb0eaa0b734c.jpg",
-    "index.html": "/affnalshsn15/index.html",
-    "main.c3c206cf.css.map": "/affnalshsn15/static/css/main.c3c206cf.css.map",
-    "main.5180adf4.js.map": "/affnalshsn15/static/js/main.5180adf4.js.map",
-    "787.70728055.chunk.js.map": "/affnalshsn15/static/js/787.70728055.chunk.js.map"
+    "main.css": "/webnetflik.github.io/static/css/main.2b4d2611.css",
+    "main.js": "/webnetflik.github.io/static/js/main.6d164e18.js",
+    "static/js/787.70728055.chunk.js": "/webnetflik.github.io/static/js/787.70728055.chunk.js",
+    "static/media/krists-luhaers-AtPWnYNDJnM-unsplash.jpg": "/webnetflik.github.io/static/media/krists-luhaers-AtPWnYNDJnM-unsplash.f25926c0a0da65fbd981.jpg",
+    "static/media/imgk.jpg": "/webnetflik.github.io/static/media/imgk.35d675d3db67e300f0f0.jpg",
+    "static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg": "/webnetflik.github.io/static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.14c17b87109f6cd52b5c.jpg",
+    "static/media/johanna-vogt-tqckH4K2oJ4-unsplash.jpg": "/webnetflik.github.io/static/media/johanna-vogt-tqckH4K2oJ4-unsplash.71863f0cbb0eaa0b734c.jpg",
+    "index.html": "/webnetflik.github.io/index.html",
+    "main.2b4d2611.css.map": "/webnetflik.github.io/static/css/main.2b4d2611.css.map",
+    "main.6d164e18.js.map": "/webnetflik.github.io/static/js/main.6d164e18.js.map",
+    "787.70728055.chunk.js.map": "/webnetflik.github.io/static/js/787.70728055.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3c206cf.css",
-    "static/js/main.5180adf4.js"
+    "static/css/main.2b4d2611.css",
+    "static/js/main.6d164e18.js"
   ]
 }
